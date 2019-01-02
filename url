@@ -13,7 +13,7 @@ http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTM3U
-#EXTINF:0, group-title="cari",Trans 7
+#EXTINF:0, group-title="cari",Trans 7 uci
 https://cdnjt13.useetv.com/jhos/trans7_3/1546424736/playlist.m3u8?stime=20190102170000&etime=20191002190000&encoded=03ba737594fcaa8dba8da
 
 
