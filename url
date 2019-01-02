@@ -11,7 +11,9 @@ http://persik.by/stream/2944/263250/32.m3u8
 http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
 #EXTINF:0, DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-https://streaming.useetv.com/jhos/trans7.m3u8
+https://cdnjt13.useetv.com/jhos/trans7_3/1546424736/playlist.m3u8?stime=20190102170000&etime=20191002190000&encoded=03ba737594fcaa8dba8da
+
+#EXTM3U
 #EXTINF:0, group-title="cari",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
