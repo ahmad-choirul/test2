@@ -28,8 +28,9 @@ http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=0
 #EXTINF:0, group-title="LOKAL",NET TV
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0, group-title="LOKAL",NET TV HD yt
-https://manifest.googlevideo.com/api/manifest/hls_variant/ipbits/0/signature/CC663606DF4148868D750F4783BCD2074CF763BA.903392EF943D5669F807A9380FC1D1F65956F763/playlist_type/DVR/source/yt_live_broadcast/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/ei/aTsrXKuaGKiuz7sPh8OM2Ag/id/JMcB1UuEoUU.1/go/1/expire/1546358729/key/yt6/hfr/1/txs/23722138%2C23722139/tx/23722138/gcr/id/keepalive/yes/ratebypass/yes/itag/0/ip/117.102.66.16/maudio/1/requiressl/yes/dover/11/file/index.m3u8
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/source/yt_live_broadcast/dover/11/txs/23722138%2C23722139/keepalive/yes/ratebypass/yes/tx/23722138/ip/117.102.66.17/id/JMcB1UuEoUU.1/maudio/1/expire/1546446023/gcr/id/signature/C07B60D6A644E942C7E6DB264AFFEC151AFDFE96.C45A5215B2FDCC4E0A67583D62EA3F24A100BD2E/itag/0/key/yt6/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/ipbits/0/playlist_type/DVR/hfr/1/requiressl/yes/ei/Z5AsXLO4FPuHz7sPxo-EqAw/go/1/file/index.m3u8
+#EXTINF:0, group-title="LOKAL",kompas tv yt
+https://manifest.googlevideo.com/api/manifest/hls_variant/maudio/1/id/ehW1DuvB_5I.1/go/1/expire/1546446034/signature/430ED0C00CF4D6D1B527813EBF9E90C5EEB0498E.7939D4A5B2015662293E93890BEDB50F0AADAD3C/playlist_type/DVR/ipbits/0/ei/cpAsXKDlIpGroAPwjq-AAw/key/yt6/gcr/id/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/itag/0/keepalive/yes/ratebypass/yes/requiressl/yes/dover/11/ip/117.102.66.17/tx/23722138/txs/23722138%2C23722139/hfr/1/source/yt_live_broadcast/file/index.m3u8
 #EXTINF:0, group-title="LOKAL",TRANS TV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0, group-title="LOKAL",TRANS7
