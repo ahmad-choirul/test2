@@ -9,9 +9,12 @@ http://persik.by/stream/2944/263250/32.m3u8
 
 #EXTINF:0, DISNEY CHANNEL
 http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
-
 #EXTINF:0, DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+https://streaming.useetv.com/jhos/trans7.m3u8
+#EXTINF:0, group-title="cari",RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 #EXTM3U
 #EXTINF:0, group-title="LOKAL",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
