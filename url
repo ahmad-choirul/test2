@@ -42,6 +42,55 @@ http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
 #EXTINF:0, DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
+#EXTINF:-1 group-title="PREMIUM",K+
+http://tv2.urfan.web.id/uq2663/h/h08/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",SONY ONE
+http://tv2.urfan.web.id/uq2663/h/h13/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",CELESTIAL MOVIES
+http://tv2.urfan.web.id/qwr9ew/s/s33/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",THRILL
+http://tv2.urfan.web.id/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",SONY CHANNEL
+http://tv2.urfan.web.id/uq2663/h/h06/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",AXN
+http://tv2.urfan.web.id/uq2663/h/h09/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",CINEMA WORLD
+http://tv2.urfan.web.id/uq2663/h/h04/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",KIX
+http://tv2.urfan.web.id/uq2663/h/h07/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",ANIMAX
+http://tv2.urfan.web.id/dr9445/h/h144/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",ANIPLUS
+http://tv2.urfan.web.id/dr9445/h/h02/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",ZEE BIOSKOP
+http://tv2.urfan.web.id/qwr9ew/s/s32/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",E!
+http://tv2.urfan.web.id/uq2663/h/h10/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",DIVA
+http://tv2.urfan.web.id/uq2663/h/h11/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",FIGHT SPORTS
+http://tv2.urfan.web.id/uq2663/h/h05/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",FOX COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",UNIVERSAL CHANNEL
+http://161.0.157.9/PLTV/88888888/224/3221226828/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",MAX PRIME
+http://161.0.157.9/PLTV/88888888/224/3221226834/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",FOX CINEMA
+http://161.0.157.7/PLTV/88888888/224/3221226793/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",ESPN 2
+http://161.0.157.9/PLTV/88888888/224/3221226881/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",ANIMAL PLANET
+http://161.0.157.5/PLTV/88888888/224/3221226253/02.m3u8
+#EXTINF:-1 group-title="PREMIUM",SUPERSOCCER TV
+http://tv2.urfan.web.id/uq2663/h/h20/02.m3u8
+
 #EXTM3U
 #EXTINF:0, group-title="LOKAL",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
